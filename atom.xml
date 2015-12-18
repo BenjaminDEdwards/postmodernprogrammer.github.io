@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-12-18T00:22:36+00:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Negative Value]]></title>
+    <link href="http://yoursite.com/blog/2015/12/18/negative-value/"/>
+    <updated>2015-12-18T00:21:19+00:00</updated>
+    <id>http://yoursite.com/blog/2015/12/18/negative-value</id>
+    <content type="html"><![CDATA[<p>A reviewer knew it would take three days for them to write a piece of code that would solve a problem.</p>
+
+<p>The task of writing the code to solve problem was given to a programmer, to be reviewed by the reviewer.</p>
+
+<p>The programmer took a week to write the code. The reviewer took a day to review it, and rejected due to it not being of a satisfactory quality (but explained why)</p>
+
+<p>The programmer, miffed at the rejection of his work, took a second week to write different code, but did not take the reviewer&rsquo;s comments on board. The reviewer took a day to review it, and, irritated their feedback had not been listened to, rejected the work due to it not being of a satisfactory quality (but explained why once again)</p>
+
+<p>The programmer, miffed at the rejection of his work a third time, took a third week to write different code. The reviewer took a day to review it, and rejected due to it not being of a satisfactory quality (but explained why once again)</p>
+
+<p>Only in the fourth week was the code of a quality to pass review.</p>
+
+<p>In total, the programmer spent four weeks writing code for the problem, and the reviewer spent four days.</p>
+
+<p>How much value was delivered to the business from the programmer?</p>
+
+<p>By delivering code to review, the programmer created work for the reviewer. The fact this work was rejected three times meant that the first three weeks the programmer worked on code cost the company three weeks wages for the programmer, and three weeks wages for the reviewer. In other words, by doing work, the programmer was creating negative value. The programmer could have saved the company money by doing nothing.</p>
+
+<p>The programmer could have taken the time to get the second review right (or significantly improved), and learned from the reviewer. The reviewer, having realised that spending time reviewing this code was not creating value, could have taken other action so they did not lose so much of their time.</p>
+
+<p>The names were redacted, but this is a pattern I have seen many times, in a myriad of companies and professions. Indeed to bring it to the concept of the gentlemen who I am writing this for, should an academic submit a paper for peer-review that is of a poor quality, they are using up their time and also their peers.</p>
+
+<p>As a programmer it is important for me to recognise this pattern, particularly in my own work. If my work fails review I should try to learn why it failed, and how to improve my work. Taking the extra time to do so not only means that the second attempt will likely pass review, but it also means the solution to future problems has a greater change of passing first time. In short, I am creating value.</p>
+
+<p>When reviewing code, I believe it is important to always consider the attitude of the person who wrote the code, concentrating on how I can give constructive feedback without unduly frustrating the programmer, and to act quickly if it transpires that the programmer has little intention of improving the standard of their work.</p>
+]]></content>
+  </entry>
+  
+</feed>
